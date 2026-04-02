@@ -1,3 +1,4 @@
+![Project Banner](bannerr.png)
 # Adaptive Audio Compression 
 
 A Hardware-In-The-Loop (HIL) system that uses physical voltage levels to control digital signal processing parameters.
